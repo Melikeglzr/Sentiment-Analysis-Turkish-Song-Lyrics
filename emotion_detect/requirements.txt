@@ -1,0 +1,7 @@
+matplotlib
+ffmpeg
+pandas
+torch
+openai-whisper
+streamlit
+scikit-learn
